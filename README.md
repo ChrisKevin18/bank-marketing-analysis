@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 # 📊 Bank Marketing Data Analysis
 
 ## 📌 Project Overview
