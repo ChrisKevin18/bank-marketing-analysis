@@ -71,6 +71,14 @@ Generated a heatmap to analyze relationships between numerical features.
 
 ### Correlation Heatmap
 ![Correlation Heatmap](images/correlation_heatmap.png)
+## 📊 Correlation Heatmap
+
+The heatmap below shows the relationship between numerical variables in the dataset.
+
+<p align="center">
+  <img src="images/correlation_heatmap.png" width="700"/>
+</p>
+
 ---
 
 ## 🚀 Future Improvements
