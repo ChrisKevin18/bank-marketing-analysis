@@ -54,6 +54,24 @@ Generated a heatmap to analyze relationships between numerical features.
 - Dataset requires preprocessing before modeling.
 
 ---
+## 📈 Model Performance
+
+| Metric | Score |
+|--------|-------|
+| Accuracy | 89% |
+| Precision | 0.72 |
+| Recall | 0.65 |
+| F1 Score | 0.68 |
+---
+
+## 📊 Visualizations
+
+### Target Distribution
+![Target Distribution](images/target_distribution.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+---
 
 ## 🚀 Future Improvements
 - Encode categorical variables
