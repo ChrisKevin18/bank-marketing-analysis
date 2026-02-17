@@ -90,6 +90,10 @@ Generated a heatmap to analyze relationships between numerical features.
 
 ---
 
+Connect with me on LinkedIn:
+www.linkedin.com/in/chris-kevina
+
+---
 ## 👨‍💻 Author
 Chris Kevin  
 Aspiring Data Analyst  
