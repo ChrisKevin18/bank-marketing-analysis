@@ -15,7 +15,7 @@ def plot_target_distribution(df):
     plt.figure(figsize=(6,4))
     sns.countplot(x='y', data=df)
     plt.title("Target Variable Distribution")
-    plt.savefig("../images/target_distribution.png")
+    plt.savefig("images/target_distribution.png")
     plt.close()
 
 def plot_correlation(df):
@@ -23,11 +23,11 @@ def plot_correlation(df):
     plt.figure(figsize=(10,6))
     sns.heatmap(numerical_df.corr(), annot=True, cmap="coolwarm")
     plt.title("Correlation Matrix")
-    plt.savefig("../images/correlation_heatmap.png")
+    plt.savefig("images/correlation_heatmap.png")
     plt.close()
 
 if __name__ == "__main__":
-    df = load_data("../data/bankmarketing.csv")
+    df = load_data("data/bankmarketing.csv")
     basic_info(df)
     plot_target_distribution(df)
     plot_correlation(df)
